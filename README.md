@@ -1,7 +1,7 @@
 # beginner-html-site-styled-de
 Eine einfache Webseite, um Einsteigern HTML und CSS Grundlagen beizubringen. Teil des folgenden Kurses: [https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/CSS_basics).
 
-[Webseite live anzeigen](http://mdn.github.io/beginner-html-site-styled-de/).
+[Webseite live anzeigen](https://shidigital.github.io/beginner-html-site-styled-de/).
 
 <hr>
 <h2> From original english version </h2>
